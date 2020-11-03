@@ -7,6 +7,6 @@ The Bootstrap navigation bar has optional collapsable menu at smaller screen siz
 
 The graph areas are all set up with resonsive columns that keep the visuals neatly organized at different sizes.
 
-A jupyter notebook file is included that shows how data was converted to html. Some small tweaks were made to make it all look nice.
+A jupyter notebook file (file name: To_HTML) is included that shows how data was converted to html. Some small tweaks were made to make it all look nice.
 
-Text around the images is pretty basic, but I believe not the focus of this exercise. Trying to build a website, not a research project.
+Text around the images is pretty basic, but I believe not the focus of this exercise. 
